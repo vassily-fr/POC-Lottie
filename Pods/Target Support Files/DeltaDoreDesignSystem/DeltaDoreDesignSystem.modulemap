@@ -1,0 +1,6 @@
+framework module DeltaDoreDesignSystem {
+  umbrella header "DeltaDoreDesignSystem-umbrella.h"
+
+  export *
+  module * { export * }
+}

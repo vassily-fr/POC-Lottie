@@ -1,0 +1,32 @@
+PODS:
+  - DeltaDoreDesignSystem (0.2.0):
+    - lottie-ios (~> 4.0.0)
+    - Reusable
+  - lottie-ios (4.0.1)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+
+DEPENDENCIES:
+  - DeltaDoreDesignSystem (from `../../../DeltaDoreDesignSystem`)
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - Reusable
+
+EXTERNAL SOURCES:
+  DeltaDoreDesignSystem:
+    :path: "../../../DeltaDoreDesignSystem"
+
+SPEC CHECKSUMS:
+  DeltaDoreDesignSystem: 6a6f86c9466bb256c86c7531972ac95a8fd394c1
+  lottie-ios: 54d22edf55b839f0929cabbfe609c9aa548b1145
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+
+PODFILE CHECKSUM: 6419bb0ce58c4cb9e0b47f2502f751b49864e217
+
+COCOAPODS: 1.11.3

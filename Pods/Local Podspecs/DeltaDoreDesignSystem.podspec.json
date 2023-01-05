@@ -1,0 +1,36 @@
+{
+  "name": "DeltaDoreDesignSystem",
+  "version": "0.2.0",
+  "summary": "A short description of DeltaDoreDesignSystem.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/David Douard/DeltaDoreDesignSystem",
+  "license": "Delta Dore",
+  "authors": "digitallabteam@gmail.com",
+  "source": {
+    "git": "git@bitbucket.org:DeltaDore/deltadoredesignsystem.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "DeltaDoreDesignSystem/Classes/**/*.swift",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "lottie-ios": [
+      "~> 4.0.0"
+    ],
+    "Reusable": [
+
+    ]
+  },
+  "resource_bundles": {
+    "DeltaDoreDesignSystem": [
+      "DeltaDoreDesignSystem/**/*.storyboard",
+      "DeltaDoreDesignSystem/**/*.xib",
+      "DeltaDoreDesignSystem/**/*.xcassets"
+    ]
+  }
+}
